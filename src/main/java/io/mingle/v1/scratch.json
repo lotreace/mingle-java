@@ -1,0 +1,6 @@
+{"attributes": ["id", "name", "ascii", "altnames", "lat", "lon", "featureClass", "featureCode", "countryCode", "cc2", "admin1", "admin2", "admin3", "admin4", "population", "elevation", "dem", "timezone", "modification"],
+"records": [ [ 6.291373e+06, "Wallisellen / Wallisellen-West", "Wallisellen / Wallisellen-West", "Wallisellen-West", 47.41906, 8.58586, "P", "PPLX", "CH", "", "ZH", 103, 69, "", 3511, "", 460, "Europe/Zurich", "2006-10-21" ],
+[ 6.291374e+06, "Wallisellen / Wallisellen-Ost", "Wallisellen / Wallisellen-Ost", "Wallisellen-Ost", 47.41446, 8.59727, "P", "PPLX", "CH", "", "ZH", 103, 69, "", 5031, "", 455, "Europe/Zurich", "2006-10-21" ] ],
+"total": 8439873,
+"found": 2,
+"time": "438ms"}
